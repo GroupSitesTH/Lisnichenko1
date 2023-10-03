@@ -1,0 +1,38 @@
+<html>
+  <body style="background-color:#f3e6ff;font-family:sans-serifg">
+ <h1 style="text-align:center; color:MediumPurple; background-color:RebeccaPurple;font-size:50px"> Котик Васька </h1>
+ <p style="font-size:20px; background-color:#e6ccff"> Це котик Василій йому 3 місяці. Він любить їсти і гратися.</p>
+  <img src="https://koshka.top/uploads/posts/2021-12/1639881603_1-koshka-top-p-malenkii-rizhii-kotenok-1.jpg" width="300"
+height="250"/>
+<img src="https://koshka.top/uploads/posts/2021-12/1639881540_2-koshka-top-p-malenkii-rizhii-kotenok-3.jpg" width="300"
+height="250"/>
+<table style="border:1px solid black;border-collapse:collapse;">
+ <tr style="border:1px solid black;background-color:Thistle;color:black;">  
+             <td>Імя</td>
+             <td>Василій</td>
+  </tr>
+  <tr style="background-color:white">
+                 <td> вік</td>
+                 <td> 3 місяці </td>
+  </tr>
+  <tr style="background-colorThistle">
+              <td>улюблена їжа</td>
+              <td> мясо,рідкий корм і сухий</td>
+  </tr>
+  <tr style="background-color:white">
+                  <td> улюблена іграшка </td>
+                  <td> резинова мишка</td>
+  </tr>
+  <tr style="background-color:Thistle">
+                  <td>улюблений напій</td>
+                  <td> молоко,вода</td>
+  </tr>
+</table>
+                  <img src="https://pesyk.kiev.ua/wp-content/uploads/Klichki-dlya-ryzhih-kotyat-1.jpg"width="300"
+height="250"/>  <p style="font-size:20px; background-color:#e6ccff"> Вася дуже активне і смішне кошенятко.</p>
+                <img src="https://img.tsn.ua/cached/896/tsn-d7721072f5f1787fa1f16a6df613a75f/thumbs/608xX/cf/d4/1d99ae9154acd6f5443f76ee5d42d4cf.jpeg"width="300"
+height="250"/> <p style="font-size:20px; background-color:#e6ccff"> Вася почуває себе господарем вдома,і робить що хоче. Хоче спить, хоче їсть. Ось так проходять його дні.</p>
+
+                <p style="font-size:30px; background-color:#e6ccff"> Дякую за увагу!) </p>
+  </body>
+</html>
